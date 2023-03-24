@@ -1,0 +1,2 @@
+# pydantic_validator
+利用pydantic进行数据验证，做类型提示的同时在代码运行时校验输入
